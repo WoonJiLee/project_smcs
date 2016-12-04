@@ -63,7 +63,7 @@ public class Delete_Phone {
 		frame.getContentPane().setLayout(null);
 		
 		JLabel lblNewLabel = new JLabel("¿Ã∏ß");
-		lblNewLabel.setBounds(103, 71, 62, 18);
+		lblNewLabel.setBounds(102, 71, 62, 18);
 		frame.getContentPane().add(lblNewLabel);
 		
 		textField = new JTextField();
